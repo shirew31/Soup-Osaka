@@ -1,0 +1,428 @@
+@media (max-width:768px){
+  button{
+    position:static;
+    margin-top: 100px;
+  }
+
+ #header-nav ul{
+   text-align: right;
+  }
+
+  #navbarSupportedContent{
+    margin:0px;
+    width: 100%;
+  }
+
+  #header-nav .container-fluid{
+    width: 90%;
+    padding: 0px;
+  }
+
+  .row{
+    height: 450px;
+  }
+
+
+  #inner-text{
+    padding-top: 250px;
+    margin: 0 auto;
+  }
+
+  #image-text{
+    text-align: center;
+  }
+
+  #button button{
+    margin: 0px;
+  }
+
+  #news{
+    width: 90%!important;
+    margin: 0px auto!important;
+  }
+
+  #news p{
+    width: 40%;
+    font-size: 20px;
+  }
+
+  #news ul{
+    line-height: 2!important;
+    margin-right: 16px;
+  }
+
+  section #menu{
+    padding: 100px 0px 50px 0px!important;
+  }
+
+  #menu-bar{
+    display: none!important;
+  }
+
+  #first-wrapper{
+    width: 90%!important;
+    margin: 0 auto;
+  }
+
+  #carouselExampleInterval div{
+    border-radius:100px;
+  }
+
+  #topicks{
+    padding:100px 0px 50px 0px!important;
+  }
+
+  #soup-image{
+    background-image: url(img/pexels-alleksana-5950449.jpeg);
+    background-size: cover;
+    height: 450px;
+  }
+
+  #image-text{
+    margin: 0 auto;
+    position: initial;
+  }
+
+  #inner-text{
+    padding-top: 200px;
+  }
+
+
+  section #topicks-gallary{
+    display: none!important;
+  }
+
+  #topicks-wrapper{
+    position: relative;
+  }
+
+  .cover-text{
+    position: absolute;
+
+  }
+
+  .corousel-item p{
+    font-size: 20px;
+  }
+
+  #container-wrapper{
+    display: none;
+  }
+
+  #responsive-wrapper #sentence-title{
+    color: rgb(100, 99, 99);
+    padding:15px 0px 0px 15px;
+  }
+
+  #sentence-image{
+    width: 95%;
+    margin: 30px auto;
+  }
+
+  #text{
+    display:block;
+    margin: 0 auto;
+    width: 95%;
+  }
+   
+
+  .after{
+    text-align: right;
+    padding: 20px;
+  }
+
+  #story-wrapper{
+    padding: initial!important;
+  }
+
+  #final{
+    width: 95%;
+  }
+
+  #final #story{
+    margin-bottom: 50px;
+  }
+
+  #story-image{
+    display: none!important;
+    height: 800px;
+  }
+
+  #last-news{
+    display: none!important;
+  }
+
+  #last-section{
+    width: 95%;
+    padding: 50px 0px;
+  }
+
+  .responsive-news{
+    margin:70px 0px;
+  }
+
+  #footer-wrapper{
+    display: none!important;
+  }
+
+  #responsive-footer ul{
+    line-height:2.5;
+    font-size: 12px;
+    margin: 50px 0px;
+  }
+
+  #end-text{
+    height: 25px;
+    font-size: 15px;
+    opacity: 0.5;
+    text-align: right;
+    padding:5px ;
+  }
+
+
+  footer{
+    height: auto;
+  }
+
+
+
+}
+
+
+
+
+
+@media screen and (min-width:768px) {
+  #carouselExampleInterval{
+    display: none;
+  }
+
+  #last-menu{
+    display: none;
+  }
+
+  #deep{
+    display: none;
+  }
+
+  #container-wrapper{ 
+    display: flex;
+  }
+
+  #responsive-wrapper{
+    display: none;
+  }
+
+  #main-sentence{
+    margin: 3rem;
+    width: auto;
+  }
+
+  #sentence-image{
+    width: 50%;
+    margin: 3rem;
+    padding: 3rem 0rem;
+  }
+
+  #main-sentence a{
+    text-align: end;
+  }
+
+  #story-contents{
+    padding: 0px 100px 40px 0px;
+  }
+
+  #soup-image{
+    background-image: url(img/pexels-alleksana-5950449.jpeg);
+    background-size: cover;
+    height: 900px;
+  }
+
+  #final{
+    width: 85%;
+  }
+
+  #last-wrapper{
+    padding:60px 0px 100px 90px;
+  }
+
+  #last-section{
+    width: 85%; 
+  }
+
+  #responsive-footer{
+    display: none!important;
+  }
+  
+
+  #end-text{
+    text-align: center;
+  }
+
+  #inner-text{
+    padding-top: 300px;
+  }
+
+  footer{
+    height: auto;
+  }
+
+  .responsive-news{
+    display: none!important;
+  }
+
+  #image-text{
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  #navbarSupportedContent{
+    padding-left: 120px;
+  }
+
+
+}
+
+
+
+
+
+
+
+
+@media (max-width: 375px){
+
+
+  #header-title{
+    display: none!important;
+  }
+
+  #header-nav{
+    height: 58px;
+    width: 100%;
+  }
+
+  .container-fluid{
+    margin-right: 23px;
+  }
+
+  .container-fluid button{
+    position: sticky;
+    margin-top: 0px;
+    top: 20px;
+    background: white;
+  }
+
+  #navbarSupportedContent{
+    margin: 0px;
+  }
+
+  #navbarSupportedContent li{
+    padding-right:0px ;
+  }
+
+
+  #soup-image{
+    background:url(img/pexels-alleksana-5950449.jpeg) contain center no-repeat;
+    height: 250px;
+  }
+
+  #inner-text{
+    font-size: 30px;
+    padding-top:100px ;
+  }
+
+  #inner-sentence{
+    font-size: 20px;
+  }
+
+  .row{
+    height: 250px;
+  }
+
+  #news{
+    display: block!important;
+  }
+
+  #news p{
+    width: 50%;
+    margin: 8px 0px 0px 8px!important;
+    font-size: 23px;
+  }
+
+  #news ul{
+    list-style: none;
+    padding: 0px;
+    line-height: 1.4!important;
+    width: 90%;
+    margin: 3px auto!important;
+    display: block!important;
+    font-size:15px;
+
+  }
+
+  #carouselExampleInterval div{
+    border-radius: 10px;
+  }
+
+  .carousel-caption{
+    padding:0px 0px 0px 0px
+  }
+
+
+  .carousel-caption p{
+    font-size:20px ;
+  }
+
+
+  .carousel-caption time{
+    font-size:15px ;
+  }
+
+  #final{
+    width: 85%;
+  }
+
+  #story-wrapper{
+    margin: 0px;
+  }
+
+
+  #story-contents a{
+    font-size:13px!important ;
+  }
+
+  #final .carousel-caption p{
+    padding:0px!important;
+  }
+ 
+
+  #last-section{
+    width: 90%;
+  }
+
+  #last-wrapper{
+    padding-left:10px ;
+  }
+
+  #responsive-footer{
+    display: block!important;
+  }
+
+
+  #responsive-footer ul{
+    margin: 0px;
+    line-height: 3.5;
+    font-size: 13px;
+  }
+
+  footer{
+    height: 540px;
+  }
+
+  #end-text{
+    text-align: center;
+  }
+
+
+}
